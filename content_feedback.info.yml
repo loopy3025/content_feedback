@@ -1,5 +1,5 @@
 name: Content Feedback
 description: Provides a form on site content so users can provide feedback to the content owners.
-package: Custom
+package: NYS
 type: module
 core: 8.x
